@@ -1,0 +1,77 @@
+{
+  "comments": {
+    "_data": [
+      {
+        "id": 4,
+        "text": "a"
+      },
+      {
+        "id": 5,
+        "text": "b"
+      },
+      {
+        "id": 6,
+        "text": "d"
+      },
+      {
+        "id": 7,
+        "text": "c"
+      }
+    ],
+    "_auto_increment": 9
+  },
+  "ratings": {
+    "_data": [
+      {
+        "id": 1,
+        "data": 1.0
+      },
+      {
+        "id": 2,
+        "data": 2.0
+      },
+      {
+        "id": 3,
+        "data": 4.0
+      },
+      {
+        "id": 4,
+        "data": 3.0
+      },
+      {
+        "id": 5,
+        "data": 11.0
+      }
+    ],
+    "_auto_increment": 6
+  },
+  "user": {
+    "_data": [
+      {
+        "id": 1,
+        "firstName": "Shivam",
+        "lastName": "Kedia",
+        "location": "Kolkata"
+      },
+      {
+        "id": 2,
+        "firstName": "Shivam",
+        "lastName": "Patel",
+        "location": "London"
+      },
+      {
+        "id": 3,
+        "firstName": "Virat",
+        "lastName": "Kohli",
+        "location": "Delhi"
+      },
+      {
+        "id": 4,
+        "firstName": "Hardik",
+        "lastName": "Pandya",
+        "location": "Mumbai"
+      }
+    ],
+    "_auto_increment": 5
+  }
+}
