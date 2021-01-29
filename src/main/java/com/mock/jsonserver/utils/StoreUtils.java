@@ -19,7 +19,7 @@ import com.mock.jsonserver.exceptions.JsonServerException;
 
 public class StoreUtils {
 
-	public static final String FILEPATH = ".\\store.json"; 
+	public static final String FILEPATH = "./store.json"; 
 
 	public static JsonObject readStore() {
 		JsonObject store = null;

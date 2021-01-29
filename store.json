@@ -1,1 +1,57 @@
-{}
+{
+  "comments": {
+    "_data": [
+      {
+        "id": 1,
+        "text": "this is a comment",
+        "author": "shivam"
+      },
+      {
+        "id": 2,
+        "text": "this is a comment",
+        "author": "shivam"
+      },
+      {
+        "id": 3,
+        "text": "this is a comment",
+        "author": "shivam"
+      },
+      {
+        "id": 4,
+        "firstName": "Hardik",
+        "lastName": "Pandya",
+        "location": "Mumbai"
+      }
+    ],
+    "_auto_increment": 5
+  },
+  "user": {
+    "_data": [
+      {
+        "id": 2,
+        "firstName": "Sir Hardik",
+        "lastName": "Pandya",
+        "location": "Mumbai"
+      },
+      {
+        "id": 3,
+        "firstName": "Virat",
+        "lastName": "Kohli",
+        "location": "Bangalore"
+      },
+      {
+        "id": 4,
+        "firstName": "Shivam",
+        "lastName": "Patel",
+        "location": "London"
+      },
+      {
+        "id": 5,
+        "firstName": "Ravindra",
+        "lastName": "Jadeja",
+        "location": "Chennai"
+      }
+    ],
+    "_auto_increment": 6
+  }
+}
